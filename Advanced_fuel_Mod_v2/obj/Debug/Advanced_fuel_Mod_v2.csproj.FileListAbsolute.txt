@@ -1,0 +1,2 @@
+C:\Users\austi\source\repos\Advanced_fuel_Mod_v2\Advanced_fuel_Mod_v2\obj\Debug\Advanced_fuel_Mod_v2.csproj.AssemblyReference.cache
+C:\Users\austi\source\repos\Advanced_fuel_Mod_v2\Advanced_fuel_Mod_v2\obj\Debug\Advanced_fuel_Mod_v2.csproj.CoreCompileInputs.cache
